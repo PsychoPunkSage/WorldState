@@ -209,7 +209,7 @@ Let’s assume the user wants to fetch the balance of account "user123".
 (Entry: {Key: "user123", Value: "Balance=1000"})
 ```
 
-5. **Result**:
+5. **Result**: 
    - The user receives the balance: **1000**.
 
 ---
